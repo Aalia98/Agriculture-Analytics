@@ -13,8 +13,8 @@ This project performs analytics over the Indian Agriculture dataset and displays
 
 ### Yearly Max/Min Production
 
-![Yearly Max/Min Production Table](./screenshots/yearly_max_min.png)
+![Yearly Max/Min Production Table](./src/screenshots/yearly_max_min.png.png)
 
 ### Average Yield and Cultivation Area
 
-![Average Yield and Cultivation Area Table](./screenshots/average_yield_area.png)
+![Average Yield and Cultivation Area Table](./src/screenshots/average_yield_area.png.png)
